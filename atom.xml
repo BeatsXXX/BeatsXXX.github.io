@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beatsxxx.github.io</id>
-    <title>Seven times have I despised my soul.</title>
-    <updated>2019-06-01T13:21:14.902Z</updated>
+    <title>千里在须臾</title>
+    <updated>2019-06-01T13:22:21.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://beatsxxx.github.io"/>
     <link rel="self" href="https://beatsxxx.github.io/atom.xml"/>
-    <subtitle>千里在须臾</subtitle>
+    <subtitle>Seven times have I despised my soul.</subtitle>
     <logo>https://beatsxxx.github.io/images/avatar.png</logo>
     <icon>https://beatsxxx.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Seven times have I despised my soul.</rights>
+    <rights>All rights reserved 2019, 千里在须臾</rights>
 </feed>
